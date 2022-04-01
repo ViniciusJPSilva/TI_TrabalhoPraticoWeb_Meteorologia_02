@@ -3,7 +3,7 @@
  * COLOQUE A SUA KEY DA API AQUI.
  * Coloque-a entre aspas ("" ou '').
  */
-var minhaChave = '';
+var minhaChave = '0765d2ad7b1d8c3dfe0686d3b69f240b';
 
 
 
