@@ -263,7 +263,7 @@ function alterarPlanoDeFundo(temperatura){
                 document.body.style.backgroundColor = "#00BFFF";
             }else{
                 //Estilo personalizado para temperaturas abaixo de -30°C.
-                document.body.style.background = "#ADD8E6 url(img/lichking.jpg) no-repeat fixed";
+                document.body.style.background = "#ADD8E6 url(../img/lichking.jpg) no-repeat fixed";
                 document.body.style.backgroundSize = "cover";
                 
                 document.querySelector("#cabecalho").style.background = "none" ;
@@ -291,7 +291,7 @@ function alterarPlanoDeFundo(temperatura){
                 document.body.style.backgroundColor = "#F00";
             }else{
                 //Estilo personalizado para temperaturas acima de 40°C.
-                document.body.style.background = "#000 url(img/mordor.jpg) no-repeat fixed";
+                document.body.style.background = "#000 url(../img/mordor.jpg) no-repeat fixed";
                 document.body.style.backgroundSize = "cover";
 
                 document.querySelector("#cabecalho").style.background = "none" ;
